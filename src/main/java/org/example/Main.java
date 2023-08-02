@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Changes");
         System.out.println("More changes");
         System.out.println("A lot of changes");
+        Person p1 = new Person("Ivan",26);
     }
 }
