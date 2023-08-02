@@ -1,8 +1,8 @@
 package org.example;
 
 public class Person {
-    public String name;
-    protected int age;
+    private String name;
+    private int age;
 
     public Person(String name, int age) {
         this.name = name;

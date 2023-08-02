@@ -10,5 +10,7 @@ public class Main {
         System.out.println("More changes");
         System.out.println("A lot of changes");
         Person p1 = new Person("Ivan",26);
+        Person p2 = new Person("Jose",22);
+        Person p3 = new Person("Miguel",28);
     }
 }
