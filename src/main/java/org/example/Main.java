@@ -15,6 +15,7 @@ public class Main {
         Person p4 = new Person("Jaime",28);
         Person p5 = new Person("Jaime",28);
         Person p6 = new Person("Jaime",28);
-        Person p6 = new Person("Jaime",28);
+        Person p7 = new Person("Jaime",28);
+        Person p8 = new Person("Jaime",28);
     }
 }
